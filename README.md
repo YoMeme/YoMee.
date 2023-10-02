@@ -1,5 +1,4 @@
 <img src="https://i.ibb.co/L8zY66T/yomeeee.png" alt="Yogesh Meena" width="100%" />
-<img src="animated/light_1.gif" height="20px" />
 
 <h1 align="center">Hi 👋, I'm Yogesh Meena</h1>
 <h3 align="center">A passionate aspiring Business Analyst from India</h3>
